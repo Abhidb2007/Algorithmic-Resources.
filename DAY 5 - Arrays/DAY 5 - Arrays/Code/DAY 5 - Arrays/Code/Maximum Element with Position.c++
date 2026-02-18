@@ -26,5 +26,5 @@ int main() {
  
     cout << minVal << " " << location;
  
-    
+    return 0;
 }
