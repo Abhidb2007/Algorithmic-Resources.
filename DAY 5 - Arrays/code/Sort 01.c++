@@ -34,7 +34,7 @@ int main() {
         }
         
         for(int i = 0; i < ones; i++) {
-            cout << "1 ";
+            cout << "1";
         }
         
         cout << endl;  
