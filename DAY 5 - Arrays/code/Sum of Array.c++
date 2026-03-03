@@ -20,7 +20,7 @@ for(int i = 0; i < n;  i++) {
 }
  
 cout << sum;
-  return 0;
+  
  
 }
  
