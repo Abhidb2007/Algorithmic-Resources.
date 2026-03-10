@@ -9,7 +9,7 @@ int main() {
     cin >> val;
  
     
-   cout << (char) val << endl;
+   cout << (char)val << endl;
  
    
 }
