@@ -19,6 +19,6 @@ int main() {
       if ( s2 == s4) {
             cout << "YES";
         }  else {
-            cout << "NO";
+            cout <<"NO";
         }
 }
