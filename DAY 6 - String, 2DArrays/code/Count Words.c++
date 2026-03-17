@@ -15,6 +15,6 @@ int main() {
             count++;
         }
     }
-    cout << count + 1;
+    cout << count +1;
  
 }
