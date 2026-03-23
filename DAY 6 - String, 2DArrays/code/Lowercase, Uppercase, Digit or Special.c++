@@ -16,6 +16,6 @@ int main() {
         } else if (ch >= 48 && ch <= 57) {
             cout << "Digit";
         } else {
-            cout << "Special";
+            cout << "Special" ;
         }
 }
