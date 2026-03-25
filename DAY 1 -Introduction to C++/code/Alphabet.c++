@@ -8,6 +8,6 @@ int main() {
     cout << "B" << endl;
     cout << "C" << endl;
     cout << "D" << endl;
-    cout << "E" << endl;
+    cout << "E" << endl
  
 }
