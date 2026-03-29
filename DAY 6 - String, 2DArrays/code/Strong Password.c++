@@ -35,5 +35,5 @@ int main() {
     else
         cout << "Weak";
  
-    return 0;
+   
 }
