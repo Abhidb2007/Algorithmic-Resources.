@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     
     
-    cout << "A" << endl
+    cout << "A" << endl;
     cout << "B" << endl;
     cout << "C" << endl;
     cout << "D" << endl;
