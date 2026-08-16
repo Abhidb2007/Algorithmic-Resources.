@@ -1,4 +1,4 @@
-//our task is to print the first five letters of the English alphabet.
+//your task is to print the first five letters of the English alphabet.
 
 #include <iostream>
 using namespace std;
