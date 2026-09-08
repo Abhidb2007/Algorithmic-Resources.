@@ -1,4 +1,4 @@
-// Count Numbers
+//Count Numbers
 
 #include <iostream>
 using namespace std;
